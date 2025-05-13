@@ -1,0 +1,3 @@
+## Background
+
+This project studies biological data using structured analysis.
